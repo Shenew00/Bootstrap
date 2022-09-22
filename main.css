@@ -1,0 +1,24 @@
+h5::before,
+h5::after{
+    content:"";
+    flex: 1 1;
+    border-bottom: 1px solid lightgray;
+    margin: auto
+     } 
+
+
+     .card-body {
+        border-width: 0;
+        margin: 3px;
+        padding: auto;
+
+
+    
+
+
+
+
+
+
+
+
